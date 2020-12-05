@@ -20,4 +20,4 @@ This design will become a desk clock that sets it's time from your local WiFi us
 ![Render](hw/wizard-flute-r1.0/production/wizard-flute-front.png "Render")
 
 ## Licence
- * Hardware in this repository is licenced under CERN-OHL-P
+ * Hardware in this repository is licensed under CERN-OHL-P
